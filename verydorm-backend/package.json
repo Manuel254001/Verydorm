@@ -1,0 +1,21 @@
+{
+  "name": "verydorm-backend",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.4",
+    "dotenv": "^16.5.0",
+    "pg": "^8.10.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
