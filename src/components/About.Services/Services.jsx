@@ -59,7 +59,10 @@ const Services = () => {
               padding: { xs: 1, md: 2 }, 
             }}
           >
-           VeryDorm offers: 1. Property Listings and Search: Secure, transparent property listings. 2. Property Records on Blockchain: Immutable, fraud-proof ownership records. 3. Property Management: Streamlined management, leveraging blockchain for secure transactions and verification.
+           VeryDorm offers:  <br />
+           1. Property Listings and Search: Secure, transparent property listings. <br />
+           2. Property Records on Blockchain: Immutable, fraud-proof ownership records. <br />
+           3. Property Management: Streamlined management, leveraging blockchain for secure transactions and verification. <br />
           </Typography>
         </Box>
               <Box

@@ -1,16 +1,18 @@
 import { AppBar, Avatar, Button, Icon, IconButton, Toolbar, Typography } from '@mui/material'
 import React from 'react'
-import Logo from "../../assets/images/logo.jpg"
+import Logo from "../../assets/images/logo2.png"
 import { Link } from 'react-router-dom'
 import { CiLogin } from "react-icons/ci";
-import { RiAccountCircleLine } from "react-icons/ri";
+
 
 const NavBar = () => {
   const navItems= [   
+    {label:"Home",path:"/"},
     {label:"Listings",path:"/listings"},
     {label: "Management", path:"/management"},
     {label:"Records", path:"/records"},
     {label:"About", path:"/#about"},
+    {label:"services",path:"/#services"},
     {label:"Blog", path:"/blog"},
     {label:"Contact",path:"/#contact"},
   ]
@@ -51,7 +53,7 @@ const NavBar = () => {
                 <Button onClick={() => handleNavClick(item.path)} key={item.label} color={"white"} component={Link} to={item.path}>{item.label}</Button>
               ))
             }
-            <Button color={"white"}   sx={{
+            <Button color={"white"} component={Link} to={"/signup"}   sx={{
             
           }}>
             Register         

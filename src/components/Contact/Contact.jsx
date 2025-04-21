@@ -1,4 +1,4 @@
-import { Checkbox, Container, FormControlLabel, Grid, Button, TextField, Typography, Card, CardContent, Box, Icon } from '@mui/material'
+import { Checkbox, FormControlLabel, Grid, Button, TextField, Typography, Card, CardContent, Box,  FormControl, InputLabel, MenuItem, Select } from '@mui/material'
 import { MdOutlineMail } from "react-icons/md";
 import { FaInstagram } from "react-icons/fa6";
 import { FaFacebookF } from "react-icons/fa";
@@ -52,14 +52,20 @@ const Contact = () => {
                     
                     sx={{mb:2}}
                     />
-                    <TextField 
-                    label="Enter Your Subject"
-                    variant="outlined"
-                    fullWidth
-                    type='text'
-                    required
-                    sx={{mb:2}}
-                    />
+                   <FormControl fullWidth sx={{mb:2}}>
+                    <InputLabel>Select Your Subject</InputLabel>
+                    <Select>
+                        <MenuItem value="1">I want to be A developer</MenuItem>
+                        <MenuItem value="2">I want to be an Investor</MenuItem>
+                        <MenuItem value="3">I want to be a Partner</MenuItem>
+                        <MenuItem value="4">I to own a property</MenuItem>
+                        <MenuItem value="5">I want to list my property</MenuItem>
+                        <MenuItem value="6">I want to be Implement Verydom In my country</MenuItem>
+                        <MenuItem value="7">I want consultation services</MenuItem>
+                        <MenuItem value="8">I Am a media person. I would like to write about Verydom</MenuItem>
+                        <MenuItem value="9">I want to invite the team as a speaker</MenuItem>
+                    </Select>
+                   </FormControl>
                     <TextField 
                     label="Enter Your Message"
                     variant="outlined"
