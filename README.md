@@ -53,4 +53,4 @@ For any inquiries, please feel free to reach out to us through our website or th
  
 ## License
  
-[Optional: Add your project's license information here, e.g., MIT License]
+Copyright: 2025 All Rights Are Reserved!
