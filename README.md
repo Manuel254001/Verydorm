@@ -1,7 +1,5 @@
 # Verydorm - Revolutionizing Property Management on Base
-
-
- ![Verydorm Logo ]([https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png](https://coin.verydorm.com/Verydorm_logo.png))
+ ![](https://coin.verydorm.com/Verydorm_logo.png)
 ## Project Overview
  
 Verydorm is an innovative platform built for the Base Buildathon Africa, aiming to transform property management through a combination of user-friendly interfaces, the transparency of blockchain technology, and the utility of our native Verydorm Coin.
