@@ -25,10 +25,10 @@ In this demo, you will be able to see:
 ## Built With
  
 * **Base Blockchain:** The underlying blockchain infrastructure providing scalability and low gas fees.
-* **[ Framework/Library: React, Vue.js, Angular]:** For building the user interface.
-* **[Backend Framework/Language: Node.js]:** For handling server-side logic.
-* **[Smart Contract Languages/Tools:Solidity, Hardhat, Truffle]:** For developing and deploying smart contracts on Base.
-* **[Libraries or technologies]:** For example, Web3.js or Ethers.js for blockchain interaction.
+* **Framework/Library: React:** For building the user interface.
+* **Backend Framework/Language: Node.js:** For handling server-side logic.
+* **Smart Contract Languages/Tools:Solidity, Hardhat:** For developing and deploying smart contracts on Base.
+* **Libraries or technologies:** For example, Web3.js or Ethers.js for blockchain interaction.
  
 ## Getting Started
  
@@ -37,17 +37,16 @@ To explore the Verydorm demo, please visit our website: [verydorm.com](https://v
 For more information about the Verydorm Coin, please visit: [https://coin.verydorm.com/](https://coin.verydorm.com/)
  
 ## Team - Verydorm
- 
-* **[List your team members and their roles, if you wish]**
-    * [Team Member 1 Name] - [Role]
-    * [Team Member 2 Name] - [Role]
-    * ...
+    * Emmanuel Muthomi - CEO
+    * Abhishek Jha - CTO
+    * Gifton Isika - VP Of Backend API
+    * Brian Tanui Biwott - Frontend & AI Chatbot Specialist 
  
 ## Contact
  
 For any inquiries, please feel free to reach out to us through our website or the contact information provided there.
  
-## Learn More
+## Links
  
 * **Verydorm Website:** [verydorm.com](https://verydorm.com)
 * **Verydorm Coin:** [https://coin.verydorm.com/](https://coin.verydorm.com/)
