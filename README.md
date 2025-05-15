@@ -28,7 +28,7 @@ In this demo, you will be able to see:
 * **Framework/Library: React:** For building the user interface.
 * **Backend Framework/Language: Node.js:** For handling server-side logic.
 * **Smart Contract Languages/Tools:Solidity, Hardhat:** For developing and deploying smart contracts on Base.
-* **Libraries or technologies:** For example, Web3.js or Ethers.js for blockchain interaction.
+* **Libraries or technologies:** Web3.js or Ethers.js for blockchain interaction.
  
 ## Getting Started
  
