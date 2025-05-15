@@ -25,10 +25,10 @@ In this demo, you will be able to see:
 ## Built With
  
 * **Base Blockchain:** The underlying blockchain infrastructure providing scalability and low gas fees.
-* **[Mention your Frontend Framework/Library, e.g., React, Vue.js, Angular]:** For building the user interface.
-* **[Mention your Backend Framework/Language, e.g., Node.js, Python/Flask/Django]:** For handling server-side logic.
-* **[Mention any Smart Contract Languages/Tools, e.g., Solidity, Hardhat, Truffle]:** For developing and deploying smart contracts on Base.
-* **[Mention any other relevant libraries or technologies]:** For example, Web3.js or Ethers.js for blockchain interaction.
+* **[ Framework/Library: React, Vue.js, Angular]:** For building the user interface.
+* **[Backend Framework/Language: Node.js]:** For handling server-side logic.
+* **[Smart Contract Languages/Tools:Solidity, Hardhat, Truffle]:** For developing and deploying smart contracts on Base.
+* **[Libraries or technologies]:** For example, Web3.js or Ethers.js for blockchain interaction.
  
 ## Getting Started
  
